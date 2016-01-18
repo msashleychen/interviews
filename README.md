@@ -42,7 +42,7 @@ A quick study sheet I use as a refresher :smile:
 * *Double-ended queue*: stack + queue combined
 * Principal operations: `push` adds elements & `pop` extracts elements
 
-### Trees
+### Tree
 * A *tree* is an undirected, connected, acyclic graph
   * Has `v` vertices and `v-1` edges
   * Any two vertices are connected by a unique path
